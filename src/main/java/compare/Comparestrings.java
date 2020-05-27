@@ -8,7 +8,7 @@ public class Comparestrings {
 		}
 		else
 		{
-			System.out.println("we are manual testers");
+			System.out.println("we are manual testers in jkt");
 		
 		}
 	}
