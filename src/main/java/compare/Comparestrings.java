@@ -4,7 +4,7 @@ public class Comparestrings {
 	{
 		if(value.contains("Automation"))
 		{
-			System.out.println("we are software testers in jkt");
+			System.out.println("we are software testers in ibm");
 		}
 		else
 		{
